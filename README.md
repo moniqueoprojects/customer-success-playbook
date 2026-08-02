@@ -11,10 +11,11 @@ Whether you're a Customer Success Manager, Onboarding Specialist, Implementation
 # 📚 What's inside
 
 ## 🚀 Customer Onboarding
-- Kickoff Meeting Agenda
-- Onboarding Checklist
-- 30-60-90 Day Success Plan
-- Go Live Checklist
+
+- 📘 [Customer Onboarding Fundamentals](onboarding/fundamentals.md)
+- 📅 Kickoff Meeting Agenda *(coming soon)*
+- ✅ Onboarding Checklist *(coming soon)*
+- 📈 30-60-90 Day Success Plan *(coming soon)*
 
 ## 📈 Customer Success
 - Customer Success Plans
